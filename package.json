@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Es una calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixjr-dev/Angular7-Curso.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Felix Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixjr-dev/Angular7-Curso/issues"
+  },
+  "homepage": "https://github.com/felixjr-dev/Angular7-Curso#readme",
+  "dependencies": {
+    "webpack": "^4.30.0"
+  }
+}
